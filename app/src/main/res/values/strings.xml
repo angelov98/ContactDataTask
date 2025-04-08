@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FaktorZweiTask</string>
+    <string name="no_network_connection">No network connection</string>
+    <string name="phone_number_unknown">Phone number unknown</string>
+    <string name="email_unknown">Email unknown</string>
+    <string name="name_unknown">Name unknown</string>
+    <string name="username_unknown">Username unknown</string>
+    <string name="image_loader_url">https://i.pravatar.cc/150?img={%1$s}</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
